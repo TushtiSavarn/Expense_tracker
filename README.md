@@ -24,7 +24,7 @@ Expense Tracker is a project developed to help users manage their personal finan
 
 ## Technologies Used
 - Visual Basics
-- SQL Server
+- MS Access
 - WinForms
 
 ## Pros
